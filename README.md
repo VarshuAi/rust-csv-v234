@@ -18,7 +18,7 @@ Ensure you have the required runtime environment installed (RUST).
 ### Execution
 Clone the repository and run:
 ```bash
-git clone https://github.com/VARSHAN69/rust-csv-v234.git
+git clone https://github.com/VarshuAi/rust-csv-v234.git
 cd rust-csv-v234
 ```
 Run the master script or compile the executable entry point.
