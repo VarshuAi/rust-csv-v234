@@ -38,7 +38,7 @@ version: 1.0
 type: Repository
 author: VarshuAi
 description: >
-  High-performance systems utility parsing big data sheets. [Variant 234 using RUST with Gruvbox theme]
+  name: rust-csv-v234 version: 1.0 type: Repository author: VarshuAi description: >   High-performance systems utility parsing big data sheets. [Variant 234 using RUST with Gruvbox theme] primary_tech: Rust
 primary_tech: Rust
 ```
 
